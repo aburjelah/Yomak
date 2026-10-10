@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "يومك | Yomak",
+  "short_name": "يومك",
+  "description": "نظّم مهامك وعاداتك ووقتك حتى بدون إنترنت",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#2457d6",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
